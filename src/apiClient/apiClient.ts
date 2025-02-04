@@ -1,4 +1,5 @@
-const BASE_URL = 'https://api.example.com';
+//const BASE_URL = 'https://api.example.com';
+const BASE_URL = 'https://jsonplaceholder.typicode.com';
 
 async function apiClient<T>(
   endpoint: string,
@@ -23,9 +24,9 @@ async function apiClient<T>(
     let responseData: unknown;
 
     try {
-      responseData = await response.json(); // Próbujemy sparsować odpowiedź jako JSON
+      responseData = await response.json();
     } catch {
-      responseData = null; // Jeśli odpowiedź nie jest JSON-em (np. pusty `204 No Content`)
+      responseData = null;
     }
 
     if (!response.ok) {
