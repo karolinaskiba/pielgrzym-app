@@ -1,0 +1,66 @@
+{
+  "hello": "Witaj Świecie!",
+  "Home": {
+    "MainTitle": "Witamy na stronie Pielgrzym!",
+    "HowToDownload": "Jak pobrać aplikację?",
+    "AboutApp": "Aplikacja 'App Pielgrzym' to Twoje niezastąpione wsparcie w podróży duchowej",
+    "AboutAppContent": {
+      "1": "Mapy tras pielgrzymkowych, dokładne wskazówki i najkrótsze drogi.",
+      "2": "Miejsca odpoczynku i noclegów, sprawdź, gdzie możesz się zatrzymać.",
+      "3": "Kalendarz wydarzeń religijnych, nie przegap ważnych uroczystości.",
+      "4": "Codzienne rozważania i modlitwy, wzbogacaj swoje doświadczenie duchowe."
+    },
+    "DownloadSection": "Pobierz aplikację już teraz!",
+    "DownloadSectionTitle": "Możesz przejść do sklepu Play i pobrać najnowszą wersję aplikacji",
+    "DownloadSectionInfo": "Kliknij powyższy link, aby pobrać aplikację na swoje urządzenie",
+
+    "ScanQR": "Skanuj kod QR",
+    "ScanQRInfo": "Dla Twojej wygody możesz zeskanować poniższy kod QR, aby szybko pobrać aplikację:",
+    "StartApp": "Zacznij pielgrzymkę z App Pielgrzym!",
+    "StartAppInfo": "Przygotuj się na wyjątkowe doświadczenie duchowe z naszą aplikacją, Twoim cyfrowym przewodnikiem."
+  },
+
+  "About": {
+    "MainTitle": " Kilka słów o funcacji"
+  },
+  "Entries": {
+    "MainTitle": "Formularz zgłoszeniowy dla organizatorów wydarzeń"
+  },
+  "Complaint": {
+    "MainTitle": "Formularz reklamacyjny"
+  },
+  "Activation": {
+    "MainTitle": "Twoje konto zostało aktywowane"
+  },
+  "ResetPassword": {
+    "MainTitle": "Reset Hasła"
+  },
+  "NavMenue": {
+    "HomePage": "Strona główna",
+    "AboutPage": "O Fundacji",
+    "NewsPage": "Aktualności",
+    "EntriesPage": "Zgłoszenia organizatorów",
+    "ComplaintsPage": "Reklamacje",
+    "ActivationPage": "Aktywacja"
+  },
+  "LabelForm": {
+    "FirstName": "Imię",
+    "LastName": "Nazwisko",
+    "PhoneNumber": "Telefon",
+    "Email": "Adres Email",
+    "EventDescription": "Opis wydarzenia",
+    "ComplaintDescription": "Opis Reklamacji",
+    "ComplaintType": "Typ Reklamacji",
+    "Password": "Hasło",
+    "PasswordConfirm": "Powtórz Hasło"
+  },
+  "Button": {
+    "Save": "Zapisz",
+    "Send": "Wyślij",
+    "BackToHome": "Powróć do strony głównej"
+  },
+  "Labels": {
+    "PageNotFound": "Przepraszamy, wybrana strona nie została znaleziona!",
+    "PageNotExists": "Strona, której szukasz nie istnieje."
+  }
+}
